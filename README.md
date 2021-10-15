@@ -12,4 +12,4 @@ GOL : TIF D
 
 2. INTENT EXPLICIT
 <img width="317" alt="explicit1" src="https://user-images.githubusercontent.com/74774957/137502655-1f70b147-1c0a-45bf-a107-9e3d65b8491c.PNG">
-![explicit2](https://user-images.githubusercontent.com/74774957/137502661-e9fc84fe-f2c6-4a4c-b6aa-b92b31ea3e5f.jpeg)
+![explicit2](https://user-images.githubusercontent.com/74774957/137503588-52f1b2f5-8be8-4806-8a88-a397b1fcd179.png)
