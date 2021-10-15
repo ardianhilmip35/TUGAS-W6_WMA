@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ImpIntentApp</string>
+    //nama untuk button
+    <string name="visit">visit</string>
+</resources>
